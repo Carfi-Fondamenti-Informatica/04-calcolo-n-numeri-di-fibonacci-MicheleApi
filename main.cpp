@@ -27,8 +27,5 @@ int fattoriale3 (int a){
 }
 
 int main() {
-    cout << "fatt(4)=" << fattoriale (4) << endl;
-    cout << "fatt (7)=" << fattoriale (7) << endl;
-    cout << "fatt (11)=" << fattoriale (11) << endl;
     return 0;
 }
